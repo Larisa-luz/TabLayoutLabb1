@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestarTab</string>
+    <string name="tab_text_1">Currency Converter</string>
+    <string name="tab_text_2">Conversion Rates</string>
+    <string-array name="fromUnitArr">
+        <item>EUR</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>KRW</item>
+    </string-array>
+</resources>
